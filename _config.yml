@@ -1,11 +1,11 @@
 # Site settings
-author: Liz Alvarez
-title: 
+author: Liz A.
+title: TerrAnova
 header-img: img/home-bg.png
 email: alvarezlizc@gmail.com
-copyright_name: Liz Alvarez
+copyright_name: Liz A.
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Exploring Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alvacat
