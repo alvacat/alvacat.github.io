@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Magic of Collaboration"
-date:       2020-06-05 18:10:54 +0000
+date:       2020-06-05 14:10:54 -0400
 permalink:  the_magic_of_collaboration
 ---
 
@@ -14,7 +14,7 @@ I’ve played Magic for a few years but only very casually.  Essentially, I know
 
 So, this time I started off the project in a lot better shape but I quickly ran into problems.  Like, almost immediately.  Luckily, I also had something else for this project that I did not have before: an actual expert in the field.  
 
-  ## My Expert
+## My Expert
 
 My Magic expert actually lives in the same house as me: my husband has been playing Magic since he was in middle school 26 years ago and it’s safe to say he understands all the intricacies of the game.  He’s even traveled to Italy to act as a judge for a Magic tournament!
 
